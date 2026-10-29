@@ -30,13 +30,6 @@
 - **FerreCheck PRO**: control de inventario y códigos de barras en tiempo real, con modo offline (PWA). Más de 25,000 artículos y más de 30 usuarios.
 - **ListoStock**: planograma digital para ver y diseñar estanterías y góndolas con medidas reales y datos de ventas.
 
-### Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickyElses&show_icons=true&count_private=true&theme=github_dark&hide_border=true&locale=es" alt="Estadísticas de GitHub">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyElses&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más usados">
-</p>
-
 ### Intereses
 - Desarrollo web full stack
 - Sistemas de inventario, retail y códigos de barras
